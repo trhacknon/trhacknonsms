@@ -22,6 +22,6 @@ python trknsms.py
 
 
 
-THANKS:
-Rewrite tool of  Christ Bowel's tool 
+THANKS:<br>
+MOD Rewrite tool by Trhacknon of  Christ Bowel's tool 
 
